@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#languages-tools-and-technologies">Languages, Tools, and Technologies</a> •
   <a href="features">Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#how-to-use">How To Use</a>
 </p>
 
 ## Languages, Tools, and Technologies
