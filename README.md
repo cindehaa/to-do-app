@@ -26,6 +26,11 @@ This app was built with Java in Android Studio.
 ## How To Use
 
 To download this application, you'll need an Android device with Android 4.4 or higher (approximately 99.7% of devices).
+1. Go to the file [app-debug.apk](https://github.com/cindehaa/to-do-app/blob/main/app-debug.apk)
+2. Click on download (if you're on a mobile device, you may need to switch your browser to desktop mode to find the download button)
+3. Follow the prompts on your device to finish installing the app (you may need to turn off secure mode)
+
+##### You should be able to find the app installed on the home screen of your device.
 
 ---
 
