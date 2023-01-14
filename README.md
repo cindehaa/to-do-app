@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#languages-tools-and-technologies">Languages, Tools, and Technologies</a> •
-  <a href="features">Features</a> •
+  <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a>
 </p>
 
